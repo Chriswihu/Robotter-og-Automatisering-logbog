@@ -1,12 +1,14 @@
 # Robotter-og-Automatisering-logbog
 
 Dag 1 - Tirsdag d. 22 Aug.
+
     Startede ud med introduktion til brug a Visual Studio Code(VSC) når det kommer til at programmere de Micro-Processore(MP) der blev givet i klassen. 
     I VSC bruges platformio, en IDE der giver adgang til den infrastruktur der ligger på MP'en, så dens Pins og Porte kan blive kaldt direkte i Koden. 
     Fik lavet et "MyFirstBlink" program, hvor det var muligt at få den indbyggede diode på MP'en til at blinke i det interval, der er skrevet i Koden.
     Fik en ny MP med to indbygget Dioder, hvor opgaven til næste gang, var at få dem til at blinke på skift og at læse op på C++ klasser.
 
 Dag 2 - Fredag d. 25 Aug.
+
     Fik gennemgået opgaven fra Dag 1, hvor det var muligt at få begge Dioder til at blinke på skift og fik understreget at funktionen 'delay()' ikke skal bruges i fremtiden.
 ![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/de14a41b-4608-4867-aae2-3b4bdd9d82aa)
 ![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/d54939ce-005c-443e-8f60-e0a2e93bed2e)
@@ -16,12 +18,25 @@ Dag 2 - Fredag d. 25 Aug.
 ![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/249a679f-7db7-4af8-8c62-d2b67936e711)
 
 Dag 3 - Tirsdag d. 29 Aug.
-    Fik uddelt en Button, vi skulle kunne bruges til at registrere et Button-push, der kan registreres af MCU'en til forskellige funktioner.
-    Arbejdede med intergration af en Buzzer på vores Breadboard, hvor vi fosøgte at få den til at spille forskellige noter i sekvens. 
 
-https://cdn.discordapp.com/attachments/1080094033931677842/1144575575785222235/VID20230825121414.mp4?ex=65325312&is=651fde12&hm=3921aab52d41547d3021f949e7b596175d1ce7950d9d53c41bfd0c8e56b89e2e&
-  
+    Fik uddelt en Button, vi skulle kunne bruges til at registrere et Button-push, der kan registreres af MCU'en til forskellige funktioner.
+     
+
+https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/f39c9fa6-59bf-400c-a5b4-4bc93065ff34
+
+    Arbejdede med intergration af en Buzzer på vores Breadboard, hvor vi fosøgte at få den til at spille forskellige noter i sekvens.
+
+    
 Dag 4 - Torsdag d. 31 Aug.
+
+    Det lykkedes at lave en forbindelse mellem Buzzer og Button, der registrede hvert Button-Push og får Buzzer'en til at give en lyd.
+    Det ønskede resultat, var at Buzzer'en skulle spille forskellige Melodier og skifte ved hvert Button-Push, men det lykkedes ikke.
+
+https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/f693f2f5-ecbd-4036-8341-66f69abae2af
+
+    Trafiklys projektet blev også afleveret og godkendt af Tobias, som et fungerende projekt der kunne afleveres.
+
+https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/733c9a5d-9e1a-4228-8de5-80578667f9e2
 
 Dag 5 - Tirsdag d. 4 Sep.
 
