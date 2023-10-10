@@ -53,6 +53,10 @@ Dag 9 - Tirsdag d. 19 Sep.
 
 Dag 10 - Fredag d. 22 Sep.
     Var hjemme og hvile efter Operationen.
+    Gruppen blev enige om at lave 3D printe en bil, med 2 motore der kunne få hjulene til at køre.
+    Forskellige ideer til bilen's funktioner og design blev designet
+    ![270024154-ec067bcf-3930-45b1-aea0-524224d7ddf7](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/a5b5da9e-213d-4fcd-b9dc-da8235e77e0a)
+
 
 Dag 11 - Tirsdag d. 26 Sep.
 
@@ -62,7 +66,8 @@ Dag 13 - Tirsdag d. 3 Okt.
 
 Dag 14 - Fredag d. 6 Okt.
 
-Dag 15 - Tirsdag d. 
+Dag 15 - Tirsdag d. 10 Okt.
+    
 
-Dag 16 - Fredag d. 
+Dag 16 - Fredag d. 13 Okt.
 
