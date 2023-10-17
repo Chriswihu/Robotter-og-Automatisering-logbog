@@ -40,31 +40,64 @@ https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/7
 
 Dag 5 - Tirsdag d. 4 Sep.
 
+    Blev introduceret til princippet bag 3D modelering og printning, via et program Tobias lavede, der oversatte Java kode til 3D objekter.
+    Det 3D blev så visualiseret med et andet program, OpenSCAD, hvorefter det teoretisk er klar til at blive 3D printet.
+    Fik som "lektie" at tegne et objekt der skulle kunne 3D printes til næste gang, men blev ikke særlig vellykket. 
+    ![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/bdcb9d4b-bd87-4927-8c78-1287b2455a34)
+
 Dag 6 - Torsdag d. 7 Sep.
 
+    Fik en gennemgang af Tobias, hvor han tegnede en holder til vores NodeMCU via Java CSG, der blev vist frem i OpenSCAD.
+    Lykkedes at få printet den, dog med lidt forkerte mål.
+    ![270022843-55a3eaf7-b70a-49ad-9797-17f82b06b596](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/7bfd83dc-723b-45b4-b6ec-f601c2169b64)
+
 Dag 7 - Tirsdag d. 12 Sep.
-    På Herlev Hospitalet
+    På Herlev Hospitalet, var ikke til stede.
 
 Dag 8 - Fredag d. 15 Sep.
-    Blev introduceret til 3D print af et Clip-system, der kan bruges til at forbinde brikker af forskellige størrelse og funktioner.
+
+    Blev introduceret til 3D printning af et Clip-system, der kan bruges til at forbinde brikker af forskellige størrelse og funktioner.
+    Dette skulle bruges af hele klassen, så vi sammen kunne 3D printe et tog og sæt skinner, den kunne køre på.
 
 Dag 9 - Tirsdag d. 19 Sep.
-    På Herlev Hospitalet.
+
+    På Herlev Hospitalet, var ikke til stede.
 
 Dag 10 - Fredag d. 22 Sep.
+
     Var hjemme og hvile efter Operationen.
-    Gruppen blev enige om at lave 3D printe en bil, med 2 motore der kunne få hjulene til at køre.
-    Forskellige ideer til bilen's funktioner og design blev designet
+    Gruppen blev enige om at 3D printe en bil, med 2 motore der skulle få hjulene til at køre.
+    Forskellige ideer til bilen's funktioner og design blev tegnet, som en trinvis process.
     ![270024154-ec067bcf-3930-45b1-aea0-524224d7ddf7](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/a5b5da9e-213d-4fcd-b9dc-da8235e77e0a)
 
+    Oprettet et Repository for koden til bilen:
+    https://github.com/AbdullahMarwan/CPH-Sem4-RobotterOgAutomatisering-Bil
 
 Dag 11 - Tirsdag d. 26 Sep.
 
+    Jeg var stadig hjemme.
+
+    Resten af gruppen fik målt de komponenter der skulle være inde i bilen, for at bestemme mål på bilen's krop.
+    ![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/895de068-24be-4e67-913b-ea88de781b9a)
+    
+    Jeg tilbød dog at begynde på at tegne hjulende, så jeg ikke sad og gjorde ingenting. 
+    Sad med det resten af dagen, hvor det lykkedes mig at bruge Java CSG til at tegne 2 typer hjul, med Cylinder og Torus i CSG. 
+    ![flat_wheel](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/ee52ded0-fedd-4f0f-a7b0-e941b591ae8e)
+    ![torus_wheel](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/b6e13159-c9ba-4c5f-a71b-0170bf292358)
+
+    Derefter eksperimenterede jeg med antalet af tværstiver, aksel hulet og andre mål.
+    ![aksel_internal_test1](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/c873fb14-1ce8-46fb-9205-6b452eb8ce56)
+    ![aksel_internal_test2](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/15810949-7f9f-4cfd-8d54-5e00b9a3a0ab)
+
+
 Dag 12 - Fredag d. 29 Sep.
+
 
 Dag 13 - Tirsdag d. 3 Okt.
 
+
 Dag 14 - Fredag d. 6 Okt.
+
 
 Dag 15 - Tirsdag d. 10 Okt.
     
