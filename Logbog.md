@@ -20,7 +20,6 @@ Dag 2 - Fredag d. 25 Aug.
 Dag 3 - Tirsdag d. 29 Aug.
 
     Fik uddelt en Button, vi skulle kunne bruges til at registrere et Button-push, der kan registreres af MCU'en til forskellige funktioner.
-     
 
 https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/f39c9fa6-59bf-400c-a5b4-4bc93065ff34
 
@@ -49,7 +48,7 @@ Dag 6 - Torsdag d. 7 Sep.
 
     Fik en gennemgang af Tobias, hvor han tegnede en holder til vores NodeMCU via Java CSG, der blev vist frem i OpenSCAD.
     Lykkedes at få printet den, dog med lidt forkerte mål.
-    ![270022843-55a3eaf7-b70a-49ad-9797-17f82b06b596](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/7bfd83dc-723b-45b4-b6ec-f601c2169b64)
+![270022843-55a3eaf7-b70a-49ad-9797-17f82b06b596](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/7bfd83dc-723b-45b4-b6ec-f601c2169b64)
 
 Dag 7 - Tirsdag d. 12 Sep.
     På Herlev Hospitalet, var ikke til stede.
@@ -68,17 +67,17 @@ Dag 10 - Fredag d. 22 Sep.
     Var hjemme og hvile efter Operationen.
     Gruppen blev enige om at 3D printe en bil, med 2 motore der skulle få hjulene til at køre.
     Forskellige ideer til bilen's funktioner og design blev tegnet, som en trinvis process.
-    ![270024154-ec067bcf-3930-45b1-aea0-524224d7ddf7](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/a5b5da9e-213d-4fcd-b9dc-da8235e77e0a)
+![270024154-ec067bcf-3930-45b1-aea0-524224d7ddf7](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/a5b5da9e-213d-4fcd-b9dc-da8235e77e0a)
 
     Oprettet et Repository for koden til bilen:
-    https://github.com/AbdullahMarwan/CPH-Sem4-RobotterOgAutomatisering-Bil
+https://github.com/AbdullahMarwan/CPH-Sem4-RobotterOgAutomatisering-Bil
 
 Dag 11 - Tirsdag d. 26 Sep.
 
     Jeg var stadig hjemme.
 
     Resten af gruppen fik målt de komponenter der skulle være inde i bilen, for at bestemme mål på bilen's krop.
-    ![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/895de068-24be-4e67-913b-ea88de781b9a)
+![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/895de068-24be-4e67-913b-ea88de781b9a)
     
     Jeg tilbød dog at begynde på at tegne hjulende, så jeg ikke sad og gjorde ingenting. 
     Sad med det resten af dagen, hvor det lykkedes mig at bruge Java CSG til at tegne 2 typer hjul, med Cylinder og Torus i CSG. 
@@ -92,12 +91,29 @@ Dag 11 - Tirsdag d. 26 Sep.
 
 Dag 12 - Fredag d. 29 Sep.
 
+    Jeg var stadig hjemme, men fik rettet i min Java kode til hjulende og sendte den til gruppen, så de kunne se og gøre brug af den.
+(make new, focused repository)
+
+    Jeg fik også sæt Java SCG sat op med objekt-mål i toppen af koden, der direkte kunne ændre hjulets mål.
+![wheel_measurements](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/f65e7e06-3964-4c14-9ac8-d13e03433205)
+
+    Det lykkedes gruppen at få begge motore til at "køre", så de var klar til at blive installeret i bil kroppen.
+https://cdn.discordapp.com/attachments/1154696073630187582/1157241326031618139/20230929_110309.jpg?ex=653b7cf8&is=652907f8&hm=ef4959a3b356b3d1269ea6dfac85528039783c6fb4964a8bdad9d3ca8c4e5c35&
+
+    Resten af gruppen havde dog besluttet sig for at bruge Fusion 360, istedet for Java CSG, som jeg begyndte at installere og læse op på.
 
 Dag 13 - Tirsdag d. 3 Okt.
 
+    Grundet en fejl kommunikation, endte Arsim med at være den eneste der mødst på, mens jeg var forsinket med en time+.
+    Lykkedes mig at nå frem og få Fusion 360 op og køre, hvorefter jeg fik Nikolaj's model til generet og printet.
+https://cdn.discordapp.com/attachments/1154696073630187582/1158685422541619230/image.png?ex=6540bde4&is=652e48e4&hm=c8fbe7b0281f7a208290c6385f8480e42ddd026bc848d791ecf0bf285f23d48a&
+    
+    Arsim og jeg fik diskuteret en ny krop til bilen, der bedre ville holde fast på motorende, MCU'en og Motor-control.
 
 Dag 14 - Fredag d. 6 Okt.
 
+    Jeg havde glemt en læge tid om morgenen, men det lykkedes mig at komme online så jeg kunne hjælpe med modelering af hjul i Fusion 360.
+    Fik målt motorene igen, specifikt de Pins der stikker ud og skal forbinde til hjulende, så de ikke sad for løst eller for fast. 
 
 Dag 15 - Tirsdag d. 10 Okt.
     
