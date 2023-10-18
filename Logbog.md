@@ -98,7 +98,7 @@ Dag 12 - Fredag d. 29 Sep.
 ![wheel_measurements](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/f65e7e06-3964-4c14-9ac8-d13e03433205)
 
     Det lykkedes gruppen at få begge motore til at "køre", så de var klar til at blive installeret i bil kroppen.
-https://cdn.discordapp.com/attachments/1154696073630187582/1157241326031618139/20230929_110309.jpg?ex=653b7cf8&is=652907f8&hm=ef4959a3b356b3d1269ea6dfac85528039783c6fb4964a8bdad9d3ca8c4e5c35&
+![20230929_110309](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/04f7828e-29ee-47d3-9bb9-2a79c59beafe)
 
     Resten af gruppen havde dog besluttet sig for at bruge Fusion 360, istedet for Java CSG, som jeg begyndte at installere og læse op på.
 
@@ -106,7 +106,8 @@ Dag 13 - Tirsdag d. 3 Okt.
 
     Grundet en fejl kommunikation, endte Arsim med at være den eneste der mødst på, mens jeg var forsinket med en time+.
     Lykkedes mig at nå frem og få Fusion 360 op og køre, hvorefter jeg fik Nikolaj's model til generet og printet.
-https://cdn.discordapp.com/attachments/1154696073630187582/1158685422541619230/image.png?ex=6540bde4&is=652e48e4&hm=c8fbe7b0281f7a208290c6385f8480e42ddd026bc848d791ecf0bf285f23d48a&
+![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/bb86b0f0-4174-47cc-acb0-10553f0e3601)
+
     
     Arsim og jeg fik diskuteret en ny krop til bilen, der bedre ville holde fast på motorende, MCU'en og Motor-control.
 
