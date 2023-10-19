@@ -39,7 +39,7 @@ Det ønskede resultat, var at Buzzer'en skulle spille forskellige Melodier og sk
 
 https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/f693f2f5-ecbd-4036-8341-66f69abae2af
 
-Trafiklys projektet blev også afleveret og godkendt af Tobias, som et fungerende projekt der kunne afleveres.
+Trafiklys projektet blev også afleveret og godkendt af Tobias som et fungerende Trafiklys.
 
 https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/733c9a5d-9e1a-4228-8de5-80578667f9e2
 
@@ -49,8 +49,9 @@ https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/7
 Blev introduceret til princippet bag 3D modelering og printning, via et program Tobias lavede, der oversatte Java kode til 3D objekter.
 Det 3D blev så visualiseret med et andet program, OpenSCAD, hvorefter det teoretisk er klar til at blive 3D printet.
 Fik som "lektie" at tegne et objekt der skulle kunne 3D printes til næste gang, men blev ikke særlig vellykket. 
-![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/bdcb9d4b-bd87-4927-8c78-1287b2455a34)
-![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/7b7f42ec-62c2-4bf0-b2e9-e1fd5ca0ddb0)
+
+<img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/bdcb9d4b-bd87-4927-8c78-1287b2455a34" width = "500" height = "500">
+<img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/7b7f42ec-62c2-4bf0-b2e9-e1fd5ca0ddb0" width = "500" height = "500">
 
 
 
