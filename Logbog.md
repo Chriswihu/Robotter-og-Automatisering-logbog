@@ -117,13 +117,15 @@ Derefter eksperimenterede jeg med antalet af tværstiver, aksel hulet og andre m
 <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/4443a2f7-f2ef-4e60-ab9b-7a30eea7d702" width = "500" height = "350">
 <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/b858d326-3b33-4fd7-ab91-787cdfbb3be4" width = "500" height = "350">
 
+Både jeg og gruppen var tilfredse med dem, så vi fokuserede på at få kroppen på plads.
+
 
 ## *Dag 12 - Fredag d. 29 Sep.*
 
-Jeg var stadig hjemme, men fik rettet i min Java kode til hjulende og sendte den til gruppen, så de kunne se og gøre brug af den.
+Jeg var stadig hjemme, men fik rettet og renskrevet min Java kode til hjulende og fik den sendt til gruppen, så de kunne se og gøre brug af den.
 Jeg fik også ændret på Java SCG, så den brugte private objekt-mål i toppen af koden, der direkte kunne ændre hjulets mål og form.
 <p align="center">
-    <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/f65e7e06-3964-4c14-9ac8-d13e03433205" width = "650" height = "450">
+    <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/f65e7e06-3964-4c14-9ac8-d13e03433205" width = "650" height = "425">
 </p>
 
 Det lykkedes gruppen at få begge motore til at "køre", så de var klar til at blive installeret i bil kroppen.
@@ -131,52 +133,54 @@ Det lykkedes gruppen at få begge motore til at "køre", så de var klar til at 
     <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/04f7828e-29ee-47d3-9bb9-2a79c59beafe" width = "650" height = "650">
 </p>
 
-Resten af gruppen havde besluttet sig for at bruge Fusion 360, istedet for Java CSG for fremtiden, som jeg så begyndte at installere og læse op på.
+Resten af gruppen havde dog besluttet sig for at bruge Fusion 360, frem for Java CSG for fremtiden, hvilke jeg så begyndte at installere og læse op på.
 
 
 ## *Dag 13 - Tirsdag d. 3 Okt.*
 
 Grundet en fejl kommunikation, endte Arsim med at være den eneste der mødte op på skolen, mens jeg var forsinket med en time+.
-Lykkedes mig at nå frem og få Fusion 360 op og køre, hvorefter jeg fik Nikolaj's model generet og printet.
+Det lykkedes mig at nå frem og få Fusion 360 op og køre, hvorefter jeg fik tilsendt Nikolaj's model af bil kroppen, som jeg fik generet og printet.
 
 <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/bb86b0f0-4174-47cc-acb0-10553f0e3601" width = "650" height = "500">
-<img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/e6f7f19b-7259-47ed-842c-ba45fa33777a" width = "300" height = "300">
 
-Den viste sig dog at være for lille, gundet at målene af MCU'en og Motorcontroller'en, blev fejlagtigt brugt som ydre kant på tegningen af kroppen, isdtedet for indre mål.
+Den viste sig dog at være for lille, da de mål der blev noteret for MCU'en og Motorcontroller'en, blev fejlagtigt brugt som den ydre kant på tegningen af kroppen, istedet for indre mål.
 
-Arsim og jeg fik diskuteret en ny model som krop til bilen, der bedre ville holde fast på motorende, MCU'en og Motor-control.
+<img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/e6f7f19b-7259-47ed-842c-ba45fa33777a" width = "650" height = "650">
+
+Arsim og jeg diskuterede os frem til et nyt design af bil kroppen, der bedre ville holde fast på motorende, MCU'en og Motor-control, samt spare på forbindende materiale.
 
 <p align="center">
-    <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/9228623d-0db3-42a2-8364-b38e1ea3ac1a" width = "650" height = "650">
+    <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/9228623d-0db3-42a2-8364-b38e1ea3ac1a" width = "850" height = "650">
 </p>
 
-Det aflange hul ville gøre det muligt at sænke motoren ned fra oven, mens det runde hul nederst, ville asse til hjulende's aksel og sørge for at den sidder fast, uden lim eller klips.
+Det aflange hul ville gøre det muligt at sænke motoren ned fra oven, mens det runde hul for enden, ville passe til hjulende's aksel og sørge for at den sidder fast, uden lim eller klips.
 
-Efter lidt frem og tilbage med ny målinger, kom jeg frem til denne form på kroppen, med plads til alle bilens komponenter.
+Efter lidt frem og tilbage med ny målinger, kom jeg frem til denne tegning af bil kroppen, med plads til alle de interne komponenter.
 
 <p align="center">
     <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/c3af921a-4a49-46c0-a48e-8ec509399c1a" width = "650" height = "650">
 </p>
+
+Den manglede kun at få placeret huller til hjulende og motore, før den var klar til at blive printet
 
 
 ## *Dag 14 - Fredag d. 6 Okt.*
 
 Jeg havde glemt en læge tid om morgenen, men det lykkedes mig at komme online så jeg kunne hjælpe med modelering af hjul i Fusion 360.
 Arsim fandt også frem til at han ikke kunne få begge motore til at køre, uden en direkte ledning til en PC. 
-Bilens krop blev så ændret, så der kun behøvede at være en motor der skulle passe ned i kroppen, med hul i den anden ende til hjul og aksel.
+Bilens krop blev så ændret, så der kun behøvede at være en motor der skulle passe ned i kroppen, med hul i den anden ende til hjul og en forbindende aksel.
 
 <p align="center">
-    <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/6ab7f096-25a5-44c2-9b45-341c19175f08" width = "650" height = "650">
+    <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/6ab7f096-25a5-44c2-9b45-341c19175f08" width = "850" height = "650">
 </p>
 
-
-Nikolaj arbejdede samtidig på at tegne et hjul i Fusion 360, med en aksel forbindelse der passede direkte til motoren.
+Nikolaj arbejdede samtidig på at tegne et hjul i Fusion 360, med en aksel forbindelse der passede til de pins der sad på vores motor.
 
 <p align="center">
     <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/6e62a1d4-f083-4e0f-8224-4fa2a0b2f1da" width = "650" height = "650">
 </p>
 
-Fik målt motorene igen, specifikt de Pins der stikker ud og skal forbinde til hjulende, så de ikke sad for løst eller for fast. 
+Fik målt motorene igen, for placering a huller på bil kroppen, samt en rund aksel der passer ind i hullet og sikrer at motoren ikke kan rokke sig ud af kroppen.
 
 <p align="center">
     <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/1fb7609d-9dff-4a9d-b1e4-405eb0dd36a2" width = "650" height = "650">
@@ -198,16 +202,18 @@ Da det blev godkendt af hele gruppen, fik vi slicet og sendt bil kroppen til pri
 Der opstod dog en mindre fejl, da et var nødvendigt at ændre på tykkelsen af hjulets aksel forbindelse, var hullerne på kroppen ikke blevet store nok. 
 Det betød at motoren ikke sad ordenligt fast, oven i at der manglede plads til ledningerne imellem komponenterne, var det nødvendigt at printe en ny krop.
 
-![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/a097b52c-8103-4b21-bea1-2f57b6031a70)
 ![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/d4bc3a7c-2a27-478b-9cc4-b32e75a57b70)
 
-Den nye krop havde plads til ledningerne, hullerne var stadigvæk for små, men det kunne løses med sandpapir.
+Den nye krop havde plads til ledningerne, hullerne var stadigvæk for små, men det kunne løses med en smule sandpapir.
 
-![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/cdcaafff-76bd-45ff-a42f-9a40722d970c)
+<img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/cdcaafff-76bd-45ff-a42f-9a40722d970c" width = "500" height = "500">
+<img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/a097b52c-8103-4b21-bea1-2f57b6031a70" width = "500" height = "500">
 
-Arsim tilbød at tage sig af dette og det lykkedes ham så at få vores bil til at køre, kun forbundet til et batteri.
+Arsim tilbød at tage sig af dette og det lykkedes ham så at få vores bil til at køre, forbundet kun til et batteri.
 
 https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/77fb3e61-1160-4431-b34d-a14d9dfa4af0
+
+Dermed, har gruppen meldt ud at de var tilfredse med det endelige produkt.
 
 
 
