@@ -98,6 +98,7 @@ Resten af gruppen fik målt de komponenter der skulle være inde i bilen, for at
     
 Jeg tilbød dog at begynde på at tegne hjulende, så jeg ikke sad og gjorde ingenting. 
 Sad med det resten af dagen, hvor det lykkedes mig at bruge Java CSG til at tegne 2 typer hjul, med Cylinder og Torus i CSG. 
+
 <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/ee52ded0-fedd-4f0f-a7b0-e941b591ae8e" width = "500" height = "500">
 <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/b6e13159-c9ba-4c5f-a71b-0170bf292358" width = "500" height = "500">
 
@@ -124,11 +125,13 @@ Resten af gruppen havde dog besluttet sig for at bruge Fusion 360, istedet for J
 
 Grundet en fejl kommunikation, endte Arsim med at være den eneste der mødte op på skolen, mens jeg var forsinket med en time+.
 Lykkedes mig at nå frem og få Fusion 360 op og køre, hvorefter jeg fik Nikolaj's model generet og printet.
-![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/bb86b0f0-4174-47cc-acb0-10553f0e3601)
-![rn_image_picker_lib_temp_8666df12-c052-406a-b1a6-6a0d58793c73](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/e6f7f19b-7259-47ed-842c-ba45fa33777a)
+
+<img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/bb86b0f0-4174-47cc-acb0-10553f0e3601" width = "500" height = "500">
+<img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/e6f7f19b-7259-47ed-842c-ba45fa33777a" width = "500" height = "500">
+
 Den viste sig dog at være for lille, gundet at målene af MCU'en og Motorcontroller'en blev fejlagtigt brugt som ydre kant på tegningen af kroppen, isdtedet for indre mål.
 
-Arsim og jeg fik diskuteret en ny krop til bilen, der bedre ville holde fast på motorende, MCU'en og Motor-control.
+Arsim og jeg fik diskuteret en ny model som krop til bilen, der bedre ville holde fast på motorende, MCU'en og Motor-control.
 ![newBody](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/9228623d-0db3-42a2-8364-b38e1ea3ac1a)
 Det aflange hul ville gøre det muligt at sænke motoren ned fra oven, mens det runde hul nederst, ville asse til hjulende's aksel og sørge for at den sidder fast, uden lim eller klips.
 
@@ -157,6 +160,11 @@ Grundet sygdom og andet fravær, blev gruppen hjemme, men mødtes i mindre grupp
 ## *Dag 16 - Fredag d. 13 Okt.*
 
 Hele gruppen mødte op, hvorefter vi begyndte med at printe et hjul, så vi kunne teste dets forbindelse til motoren. 
-Da det blev konstateret godt nok, fik vi slicet og sendt bil kroppen til printeren, så vi kunne få alt til at 
+Da det blev godkendt af hele gruppen, fik vi slicet og sendt bil kroppen til printeren, så vi kunne forsøge at få samlet en fungerende bil.
+
+<img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/41131663-0208-4094-b211-a1c621f1baf3" width = "500" height = "500">
+<img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/1df21231-1dee-4daa-96a6-43ecf48d5292" width = "500" height = "500">
+
+
 
 
