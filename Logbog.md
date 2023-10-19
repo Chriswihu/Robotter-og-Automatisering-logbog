@@ -118,7 +118,7 @@ Derefter eksperimenterede jeg med antalet af tværstiver, aksel hulet og andre m
 Jeg var stadig hjemme, men fik rettet i min Java kode til hjulende og sendte den til gruppen, så de kunne se og gøre brug af den.
 Jeg fik også ændret på Java SCG, så den brugte private objekt-mål i toppen af koden, der direkte kunne ændre hjulets mål og form.
 <p align="center">
-    <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/f65e7e06-3964-4c14-9ac8-d13e03433205" width = "650" height = "650">
+    <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/f65e7e06-3964-4c14-9ac8-d13e03433205" width = "650" height = "450">
 </p>
 
 Det lykkedes gruppen at få begge motore til at "køre", så de var klar til at blive installeret i bil kroppen.
