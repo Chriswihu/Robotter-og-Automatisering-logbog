@@ -46,7 +46,7 @@ public class CarWheel {
         Geometry3D tread90 = csg.rotate3DZ(csg.degrees(90)).transform(tread);
 
         //4-legged tread parametre
-		Geometry3D treads = csg.union3D(tread, tread90);
+        Geometry3D treads = csg.union3D(tread, tread90);
 
         //8-legged tread parametre
 //        Geometry3D treads = csg.union3D(tread, tread90);
