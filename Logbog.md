@@ -147,7 +147,7 @@ Arsim fandt også frem til at han ikke kunne få begge motore til at køre, uden
 Bilens krop blev så ændret, så der kun behøvede at være en motor der skulle passe ned i kroppen, med hul i den anden ende til hjul og aksel.
 ![newBody3](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/6ab7f096-25a5-44c2-9b45-341c19175f08)
 
-Nikolaj arbejdede samtidig med nogen hjul i Fusion 360, samt aksel hullet der skal forbindes direkte til motoren.
+Nikolaj arbejdede samtidig på at tegne et hjul i Fusion 360, med en aksel forbindelse der passede direkte til motoren.
 ![newWheel1](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/6e62a1d4-f083-4e0f-8224-4fa2a0b2f1da)
 
 Fik målt motorene igen, specifikt de Pins der stikker ud og skal forbinde til hjulende, så de ikke sad for løst eller for fast. 
@@ -165,6 +165,20 @@ Da det blev godkendt af hele gruppen, fik vi slicet og sendt bil kroppen til pri
 
 <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/41131663-0208-4094-b211-a1c621f1baf3" width = "500" height = "500">
 <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/1df21231-1dee-4daa-96a6-43ecf48d5292" width = "500" height = "500">
+
+Der opstod dog en mindre fejl, da et var nødvendigt at ændre på tykkelsen af hjulets aksel forbindelse, var hullerne på kroppen ikke blevet store nok. 
+Det betød at motoren ikke sad ordenligt fast, oven i at der manglede plads til ledningerne imellem komponenterne, var det nødvendigt at printe en ny krop.
+
+![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/a097b52c-8103-4b21-bea1-2f57b6031a70)
+![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/d4bc3a7c-2a27-478b-9cc4-b32e75a57b70)
+
+Den nye krop havde plads til ledningerne, hullerne var stadigvæk for små, men det kunne løses med sandpapir.
+
+![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/cdcaafff-76bd-45ff-a42f-9a40722d970c)
+
+Arsim tilbød at tage sig af dette og det lykkedes ham så at få vores bil til at køre, kun forbundet til et batteri.
+
+https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/77fb3e61-1160-4431-b34d-a14d9dfa4af0
 
 
 
