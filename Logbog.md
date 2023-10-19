@@ -17,8 +17,8 @@ Fik gennemgået opgaven fra Dag 1, hvor det var muligt at få begge Dioder til a
 
 Fik en introduktion til et Trafiklys signal og de stadier det går igennem, som vi skal arbejde på til næste lektion, og forsøge at kode ind på vores MCU. 
 
-    <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/4cd46835-9cc6-47fd-b52a-2e8a2eb95633" width = "500" height = "500">
-    <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/249a679f-7db7-4af8-8c62-d2b67936e711" width = "500" height = "500">
+<img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/4cd46835-9cc6-47fd-b52a-2e8a2eb95633" width = "500" height = "500">
+<img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/249a679f-7db7-4af8-8c62-d2b67936e711" width = "500" height = "500">
 
 
 *Dag 3 - Tirsdag d. 29 Aug.*
@@ -49,7 +49,9 @@ https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/7
 Blev introduceret til princippet bag 3D modelering og printning, via et program Tobias lavede, der oversatte Java kode til 3D objekter.
 Det 3D blev så visualiseret med et andet program, OpenSCAD, hvorefter det teoretisk er klar til at blive 3D printet.
 Fik som "lektie" at tegne et objekt der skulle kunne 3D printes til næste gang, men blev ikke særlig vellykket. 
-![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/bdcb9d4b-bd87-4927-8c78-1287b2455a34)
+![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/bdcb9d4b-bd87-4927-8c78-1287b2455a34){: width="50%"}
+![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/7b7f42ec-62c2-4bf0-b2e9-e1fd5ca0ddb0){: width="50%"}
+
 
 
 *Dag 6 - Torsdag d. 7 Sep.*
