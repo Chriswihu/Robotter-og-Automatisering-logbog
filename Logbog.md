@@ -49,8 +49,8 @@ https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/7
 Blev introduceret til princippet bag 3D modelering og printning, via et program Tobias lavede, der oversatte Java kode til 3D objekter.
 Det 3D blev så visualiseret med et andet program, OpenSCAD, hvorefter det teoretisk er klar til at blive 3D printet.
 Fik som "lektie" at tegne et objekt der skulle kunne 3D printes til næste gang, men blev ikke særlig vellykket. 
-![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/bdcb9d4b-bd87-4927-8c78-1287b2455a34){: width="50%"}
-![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/7b7f42ec-62c2-4bf0-b2e9-e1fd5ca0ddb0){: width="50%"}
+![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/bdcb9d4b-bd87-4927-8c78-1287b2455a34)
+![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/7b7f42ec-62c2-4bf0-b2e9-e1fd5ca0ddb0)
 
 
 
