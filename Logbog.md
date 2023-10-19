@@ -172,6 +172,11 @@ Den manglede kun at få placeret huller til hjulende og motore, før den var kla
 
 Jeg havde glemt en læge tid om morgenen, men det lykkedes mig at komme online så jeg kunne hjælpe med modelering af hjul i Fusion 360.
 Arsim fandt også frem til at han ikke kunne få begge motore til at køre, uden en direkte ledning til en PC. 
+
+<p align="center">
+    <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/5f52a62d-3702-4e78-89f4-03d9dfc619b7" width = "850" height = "650">
+</p>
+
 Bilens krop blev så ændret, så der kun behøvede at være en motor der skulle passe ned i kroppen, med hul i den anden ende til hjul og en forbindende aksel.
 
 <p align="center">
@@ -215,7 +220,7 @@ Den nye krop havde plads til ledningerne, hullerne var stadigvæk for små, men 
 
 Arsim tilbød at tage sig af dette og det lykkedes ham så at få vores bil til at køre, forbundet kun til et batteri.
 
-https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/77fb3e61-1160-4431-b34d-a14d9dfa4af0
+https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/38969e99-7dd9-46fc-9c31-faef073a0c17
 
 Dermed, har gruppen meldt ud at de var tilfredse med det endelige produkt.
 
