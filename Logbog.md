@@ -59,8 +59,9 @@ Fik som "lektie" at tegne et objekt der skulle kunne 3D printes til næste gang,
 
 Fik en gennemgang af Tobias, hvor han tegnede en holder til vores NodeMCU via Java CSG, der blev vist frem i OpenSCAD.
 Lykkedes at få printet den, dog med lidt forkerte mål.
-![270022843-55a3eaf7-b70a-49ad-9797-17f82b06b596](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/7bfd83dc-723b-45b4-b6ec-f601c2169b64)
-
+<p align="center">
+    <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/7bfd83dc-723b-45b4-b6ec-f601c2169b64" width = "650" height = "650">
+</p> 
 
 ## *Dag 7 - Tirsdag d. 12 Sep.*
 
