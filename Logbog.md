@@ -9,6 +9,7 @@ Fik en ny MP med to indbygget Dioder, hvor opgaven til næste gang, var at få d
 
 
 *Dag 2 - Fredag d. 25 Aug.*
+
 Fik gennemgået opgaven fra Dag 1, hvor det var muligt at få begge Dioder til at blinke på skift og fik understreget at funktionen 'delay()' ikke skal bruges i fremtiden.
 ![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/de14a41b-4608-4867-aae2-3b4bdd9d82aa)
 ![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/d54939ce-005c-443e-8f60-e0a2e93bed2e)
@@ -19,6 +20,7 @@ Fik en introduktion til et Trafiklys signal og de stadier det går igennem, som 
 
 
 *Dag 3 - Tirsdag d. 29 Aug.*
+
 Fik uddelt en Button, vi skulle kunne bruges til at registrere et Button-push, der kan registreres af MCU'en til forskellige funktioner.
 
 https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/f39c9fa6-59bf-400c-a5b4-4bc93065ff34
@@ -27,6 +29,7 @@ Arbejdede med intergration af en Buzzer på vores Breadboard, hvor vi fosøgte a
 
     
 *Dag 4 - Torsdag d. 31 Aug.*
+
 Det lykkedes at lave en forbindelse mellem Buzzer og Button, der registrede hvert Button-Push og får Buzzer'en til at give en lyd.
 Det ønskede resultat, var at Buzzer'en skulle spille forskellige Melodier og skifte ved hvert Button-Push, men det lykkedes ikke.
 
