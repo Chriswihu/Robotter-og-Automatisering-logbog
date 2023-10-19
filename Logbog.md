@@ -28,7 +28,7 @@ Vi fik startet med at teste forbindelsen mellem forskellige farver Dioder, bread
 
 https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/f39c9fa6-59bf-400c-a5b4-4bc93065ff34
 
-Arbejdede med intergration af en Buzzer på vores Breadboard, hvor vi fosøgte at få den til at spille forskellige noter i sekvens.
+Arbejdede med intergration af en Buzzer på vores Breadboard, hvor vi skal forsøge at få den til at spille forskellige noter og melodier til næste gang.
 
     
 *Dag 4 - Torsdag d. 31 Aug.*
