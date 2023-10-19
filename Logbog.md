@@ -1,6 +1,6 @@
 # Robotter-og-Automatisering-logbog
 
-##Dag 1 - Tirsdag d. 22 Aug.
+## *Dag 1 - Tirsdag d. 22 Aug.*
 
 Startede ud med introduktion til brug a Visual Studio Code(VSC) når det kommer til at programmere de Micro-Processore(MP) der blev givet i klassen. 
 I VSC bruges platformio, en IDE der giver adgang til den infrastruktur der ligger på MP'en, så dens Pins og Porte kan blive kaldt direkte i Koden. 
