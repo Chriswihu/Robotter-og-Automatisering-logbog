@@ -142,7 +142,7 @@ Grundet en fejl kommunikation, endte Arsim med at være den eneste der mødte op
 Det lykkedes mig at nå frem og få Fusion 360 op og køre, hvorefter jeg fik tilsendt Nikolaj's model af bil kroppen, som jeg fik generet og printet.
 
 <p align="center">
-    <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/bb86b0f0-4174-47cc-acb0-10553f0e3601" width = "850" height = "650">
+    <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/bb86b0f0-4174-47cc-acb0-10553f0e3601" width = "1200" height = "650">
 </p>
 
 Den viste sig dog at være for lille, da de mål der blev noteret for MCU'en og Motorcontroller'en, blev fejlagtigt brugt som den ydre kant på tegningen af kroppen, istedet for indre mål.
@@ -154,7 +154,7 @@ Den viste sig dog at være for lille, da de mål der blev noteret for MCU'en og 
 Arsim og jeg diskuterede os frem til et nyt design af bil kroppen, der bedre ville holde fast på motorende, MCU'en og Motor-control, samt spare på forbindende materiale.
 
 <p align="center">
-    <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/9228623d-0db3-42a2-8364-b38e1ea3ac1a" width = "1000" height = "650">
+    <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/9228623d-0db3-42a2-8364-b38e1ea3ac1a" width = "1200" height = "650">
 </p>
 
 Det aflange hul ville gøre det muligt at sænke motoren ned fra oven, mens det runde hul for enden, ville passe til hjulende's aksel og sørge for at den sidder fast, uden lim eller klips.
