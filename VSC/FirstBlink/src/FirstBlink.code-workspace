@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "Stopsignals",
+			"path": "../../Stopsignals"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"chrono": "cpp",
+			"algorithm": "cpp"
+		}
+	}
+}
