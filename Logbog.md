@@ -16,8 +16,9 @@ Fik gennemgået opgaven fra Dag 1, hvor det var muligt at få begge Dioder til a
 <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/d54939ce-005c-443e-8f60-e0a2e93bed2e" width = "500" height = "500">
 
 Fik en introduktion til et Trafiklys signal og de stadier det går igennem, som vi skal arbejde på til næste lektion, og forsøge at kode ind på vores MCU. 
-<img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/4cd46835-9cc6-47fd-b52a-2e8a2eb95633" width = "500" height = "500">
-<img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/249a679f-7db7-4af8-8c62-d2b67936e711" width = "500" height = "500">
+
+    <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/4cd46835-9cc6-47fd-b52a-2e8a2eb95633" width = "500" height = "500">
+    <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/249a679f-7db7-4af8-8c62-d2b67936e711" width = "500" height = "500">
 
 
 *Dag 3 - Tirsdag d. 29 Aug.*
