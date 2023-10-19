@@ -24,6 +24,7 @@ Fik en introduktion til et Trafiklys signal og de stadier det går igennem, som 
 Fik uddelt en Button, vi skulle kunne bruges til at registrere et Button-push, der kan registreres af MCU'en til forskellige funktioner.
 
 Vi startede med at teste forbindelsen mellem forskellige farver Dioder og MCU'en, der skal bruges til trafiklyset.
+
 https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/f39c9fa6-59bf-400c-a5b4-4bc93065ff34
 
 Arbejdede med intergration af en Buzzer på vores Breadboard, hvor vi fosøgte at få den til at spille forskellige noter i sekvens.
