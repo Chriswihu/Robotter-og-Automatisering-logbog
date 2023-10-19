@@ -23,7 +23,7 @@ Fik en introduktion til et Trafiklys signal og de stadier det går igennem, som 
 
 Fik uddelt en Button, vi skulle kunne bruges til at registrere et Button-push, der kan registreres af MCU'en til forskellige funktioner.
 
-Vi startede med at teste forbindelsen mellem forskellige farver Dioder og MCU'en, der skal bruges til trafiklyset.
+Vi fik startet med at teste forbindelsen mellem forskellige farver Dioder, breadboard og MCU'en, der skal bruges til trafiklyset.
 
 https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/f39c9fa6-59bf-400c-a5b4-4bc93065ff34
 
@@ -43,6 +43,7 @@ https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/7
 
 
 *Dag 5 - Tirsdag d. 4 Sep.*
+
 Blev introduceret til princippet bag 3D modelering og printning, via et program Tobias lavede, der oversatte Java kode til 3D objekter.
 Det 3D blev så visualiseret med et andet program, OpenSCAD, hvorefter det teoretisk er klar til at blive 3D printet.
 Fik som "lektie" at tegne et objekt der skulle kunne 3D printes til næste gang, men blev ikke særlig vellykket. 
@@ -50,25 +51,30 @@ Fik som "lektie" at tegne et objekt der skulle kunne 3D printes til næste gang,
 
 
 *Dag 6 - Torsdag d. 7 Sep.*
+
 Fik en gennemgang af Tobias, hvor han tegnede en holder til vores NodeMCU via Java CSG, der blev vist frem i OpenSCAD.
 Lykkedes at få printet den, dog med lidt forkerte mål.
 ![270022843-55a3eaf7-b70a-49ad-9797-17f82b06b596](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/7bfd83dc-723b-45b4-b6ec-f601c2169b64)
 
 
 *Dag 7 - Tirsdag d. 12 Sep.*
+
 Jeg var på Herlev Hospitalet, var ikke til stede.
 
 
 *Dag 8 - Fredag d. 15 Sep.*
+
 Blev introduceret til 3D printning af et Clip-system, der kan bruges til at forbinde brikker af forskellige størrelse og funktioner.
 Dette skulle bruges af hele klassen, så vi sammen kunne 3D printe et tog og sæt skinner, den kunne køre på.
 
 
 *Dag 9 - Tirsdag d. 19 Sep.*
+
 På Herlev Hospitalet, var ikke til stede.
 
 
 *Dag 10 - Fredag d. 22 Sep.*
+
 Var hjemme og hvile efter Operationen.
 Gruppen blev enige om at 3D printe en bil, med 2 motore der skulle få hjulene til at køre.
 Forskellige ideer til bilen's funktioner og design blev tegnet, som en trinvis process.
@@ -79,6 +85,7 @@ https://github.com/AbdullahMarwan/CPH-Sem4-RobotterOgAutomatisering-Bil
 
 
 *Dag 11 - Tirsdag d. 26 Sep.*
+
 Jeg var stadig hjemme.
 
 Resten af gruppen fik målt de komponenter der skulle være inde i bilen, for at bestemme mål på bilen's krop.
@@ -95,6 +102,7 @@ Derefter eksperimenterede jeg med antalet af tværstiver, aksel hulet og andre m
 
 
 *Dag 12 - Fredag d. 29 Sep.*
+
 Jeg var stadig hjemme, men fik rettet i min Java kode til hjulende og sendte den til gruppen, så de kunne se og gøre brug af den.
 (make new, focused repository)
 
@@ -108,6 +116,7 @@ Resten af gruppen havde dog besluttet sig for at bruge Fusion 360, istedet for J
 
 
 *Dag 13 - Tirsdag d. 3 Okt.*
+
 Grundet en fejl kommunikation, endte Arsim med at være den eneste der mødte op på skolen, mens jeg var forsinket med en time+.
 Lykkedes mig at nå frem og få Fusion 360 op og køre, hvorefter jeg fik Nikolaj's model generet og printet.
 ![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/bb86b0f0-4174-47cc-acb0-10553f0e3601)
@@ -123,6 +132,7 @@ Efter lidt frem og tilbage med ny målinger, kom jeg frem til denne form på kro
 
 
 *Dag 14 - Fredag d. 6 Okt.*
+
 Jeg havde glemt en læge tid om morgenen, men det lykkedes mig at komme online så jeg kunne hjælpe med modelering af hjul i Fusion 360.
 Arsim fandt også frem til at han ikke kunne få begge motore til at køre, uden en direkte ledning til en PC. 
 Bilens krop blev så ændret, så der kun behøvede at være en motor der skulle passe ned i kroppen, med hul i den anden ende til hjul og aksel.
@@ -137,8 +147,11 @@ Fik målt motorene igen, specifikt de Pins der stikker ud og skal forbinde til h
 
 *Dag 15 - Tirsdag d. 10 Okt.*
     
-
+Grundet sygdom og andet fravær, blev gruppen hjemme, men mødtes i mindre grupper for at færdigøre de elementer der skulle printes eller samles til bilen.
 
 *Dag 16 - Fredag d. 13 Okt.*
+
+Hele gruppen mødte op, hvorefter vi begyndte med at printe et hjul, så vi kunne teste dets forbindelse til motoren. 
+Da det blev konstateret godt nok, fik vi slicet og sendt bil kroppen til printeren, så vi kunne få alt til at 
 
 
