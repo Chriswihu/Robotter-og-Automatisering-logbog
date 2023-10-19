@@ -103,6 +103,7 @@ Sad med det resten af dagen, hvor det lykkedes mig at bruge Java CSG til at tegn
 <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/b6e13159-c9ba-4c5f-a71b-0170bf292358" width = "500" height = "500">
 
 Derefter eksperimenterede jeg med antalet af tværstiver, aksel hulet og andre mål.
+
 <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/c873fb14-1ce8-46fb-9205-6b452eb8ce56" width = "500" height = "500">
 <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/15810949-7f9f-4cfd-8d54-5e00b9a3a0ab" width = "500" height = "500">
 
