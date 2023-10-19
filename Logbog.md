@@ -1,4 +1,4 @@
-### Robotter-og-Automatisering-logbog
+# Robotter-og-Automatisering-logbog
 
 ## *Dag 1 - Tirsdag d. 22 Aug.*
 
@@ -206,7 +206,7 @@ Da det blev godkendt af hele gruppen, fik vi slicet og sendt bil kroppen til pri
 Der opstod dog en mindre fejl, da et var nødvendigt at ændre på tykkelsen af hjulets aksel forbindelse, var hullerne på kroppen ikke blevet store nok. 
 Det betød at motoren ikke sad ordenligt fast, oven i at der manglede plads til ledningerne imellem komponenterne, var det nødvendigt at printe en ny krop.
 
-![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/d4bc3a7c-2a27-478b-9cc4-b32e75a57b70)
+<img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/d4bc3a7c-2a27-478b-9cc4-b32e75a57b70" width = "650" height = "800">
 
 Den nye krop havde plads til ledningerne, hullerne var stadigvæk for små, men det kunne løses med en smule sandpapir.
 
