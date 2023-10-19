@@ -98,7 +98,7 @@ Jeg var stadig hjemme.
 
 Resten af gruppen fik målt de komponenter der skulle være inde i bilen, for at bestemme mål på bilen's krop.
 <p align="center">
-    <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/895de068-24be-4e67-913b-ea88de781b9a" width = "650" height = "650">
+    <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/895de068-24be-4e67-913b-ea88de781b9a" width = "650" height = "450">
 </p>
     
 Jeg tilbød dog at begynde på at tegne hjulende, så jeg ikke sad og gjorde ingenting. 
