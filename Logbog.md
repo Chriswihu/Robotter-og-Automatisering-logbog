@@ -1,11 +1,11 @@
-# Robotter-og-Automatisering-logbog
+### Robotter-og-Automatisering-logbog
 
 ## *Dag 1 - Tirsdag d. 22 Aug.*
 
-Startede ud med introduktion til brug a Visual Studio Code(VSC) når det kommer til at programmere de Micro-Processore(MP) der blev givet i klassen. 
-I VSC bruges platformio, en IDE der giver adgang til den infrastruktur der ligger på MP'en, så dens Pins og Porte kan blive kaldt direkte i Koden. 
-Fik lavet et "MyFirstBlink" program, hvor det var muligt at få den indbyggede diode på MP'en til at blinke i det interval, der er skrevet i Koden.
-Fik en ny MP med to indbygget Dioder, hvor opgaven til næste gang, var at få dem til at blinke på skift og at læse op på C++ klasser.
+Vi startede ud med introduktion til brug a Visual Studio Code(VSC) når det kommer til at programmere de Micro-Processore(MCU) fik udleveret i klassen. 
+I VSC bruges platformio, en IDE der giver adgang til den infrastruktur der ligger på MCU'en, så dens Pins og Porte kan blive kaldt direkte i Koden. 
+Fik lavet et "MyFirstBlink" program, hvor det var muligt at få den indbyggede diode på MCU'en til at blinke i det interval defineret i Koden.
+Fik en anden MCU med to indbygget Dioder, hvor opgaven til næste gang, var at få dem til at blinke på skift og at læse op på C++ klasser.
 
 
 ## *Dag 2 - Fredag d. 25 Aug.*
@@ -15,7 +15,7 @@ Fik gennemgået opgaven fra Dag 1, hvor det var muligt at få begge Dioder til a
 <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/de14a41b-4608-4867-aae2-3b4bdd9d82aa" width = "500" height = "350">
 <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/d54939ce-005c-443e-8f60-e0a2e93bed2e" width = "500" height = "350">
 
-Fik en introduktion til et Trafiklys signal og de stadier det går igennem, som vi skal arbejde på til næste lektion, og forsøge at kode ind på vores MCU. 
+Fik en introduktion til et Trafikkryds lyssignal og de stadier det går igennem, som vi skal arbejde på til næste lektion, og forsøge at kode ind på MCU'en med et Breadboard og Dioder.
 
 <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/4cd46835-9cc6-47fd-b52a-2e8a2eb95633" width = "500" height = "500">
 <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/249a679f-7db7-4af8-8c62-d2b67936e711" width = "500" height = "500">
@@ -23,9 +23,9 @@ Fik en introduktion til et Trafiklys signal og de stadier det går igennem, som 
 
 ## *Dag 3 - Tirsdag d. 29 Aug.*
 
-Fik uddelt en Button, vi skulle kunne bruges til at registrere et Button-push, der kan registreres af MCU'en til forskellige funktioner.
+Vi fik uddelt en Button, vi skulle kunne bruges til at registrere et Button-push, der kan registreres af MCU'en til forskellige funktioner.
 
-Vi fik startet med at teste forbindelsen mellem forskellige farver Dioder, breadboard og MCU'en, der skal bruges til trafiklyset.
+Vi begyndte at teste forbindelsen mellem forskellige farver Dioder, et Breadboard og MCU'en, der skal bruges til trafiklyset.
 
 https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/f39c9fa6-59bf-400c-a5b4-4bc93065ff34
 
@@ -46,22 +46,26 @@ https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/7
 
 ## *Dag 5 - Tirsdag d. 4 Sep.*
 
-Blev introduceret til princippet bag 3D modelering og printning, via et program Tobias lavede, der oversatte Java kode til 3D objekter.
-Det 3D blev så visualiseret med et andet program, OpenSCAD, hvorefter det teoretisk er klar til at blive 3D printet.
+Blev introduceret til princippet bag 3D modelering og printning, via Java CSG Tobias selv har lavet, der oversætte Java kode til en 3D tegning.
+3D tegningen kan så visualiseres med et andet program, OpenSCAD, hvorefter det teoretisk er klar til at blive 3D printet.
 Fik som "lektie" at tegne et objekt der skulle kunne 3D printes til næste gang, men blev ikke særlig vellykket. 
 
 <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/bdcb9d4b-bd87-4927-8c78-1287b2455a34" width = "500" height = "500">
 <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/7b7f42ec-62c2-4bf0-b2e9-e1fd5ca0ddb0" width = "500" height = "500">
 
+De to ovenstående tegninger er mit og Nikolaj's forsøg på at lave en simpel 6-sidet terning med Java CSG.
 
 
 ## *Dag 6 - Torsdag d. 7 Sep.*
 
-Fik en gennemgang af Tobias, hvor han tegnede en holder til vores NodeMCU via Java CSG, der blev vist frem i OpenSCAD.
-Lykkedes at få printet den, dog med lidt forkerte mål.
+Vi fik en gennemgang af Tobias i at bruge JavaCSG, hvor han tegnede en holder til vores MCU, som han viste frem i OpenSCAD og fik den printet, dog med lidt forkerte mål.
+
 <p align="center">
     <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/7bfd83dc-723b-45b4-b6ec-f601c2169b64" width = "650" height = "650">
 </p> 
+
+Fik selv lavet noget der var på vej mod en lignende holder, men blev ikke færdig før klassen var ovre.
+
 
 ## *Dag 7 - Tirsdag d. 12 Sep.*
 
@@ -82,35 +86,36 @@ På Herlev Hospitalet, var ikke til stede.
 ## *Dag 10 - Fredag d. 22 Sep.*
 
 Var hjemme og hvile efter Operationen.
-Gruppen blev enige om at 3D printe en bil, med 2 motore der skulle få hjulene til at køre.
-Forskellige ideer til bilen's funktioner og design blev tegnet, som en trinvis process.
+
+
+Gruppen blev enig om at prøve at 3D-printe en bil, med 2 motore der skulle få den til at køre både frem og tilbage.
+Forskellige ideer til bilen's funktioner og design blev tegnet, som en trinvis process vi kunne bygge videre på over tid.
+
 <p align="center">
     <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/a5b5da9e-213d-4fcd-b9dc-da8235e77e0a" width = "650" height = "650">
 </p>
-
-Oprettet et Repository for koden til bilen:
-https://github.com/AbdullahMarwan/CPH-Sem4-RobotterOgAutomatisering-Bil
 
 
 ## *Dag 11 - Tirsdag d. 26 Sep.*
 
 Jeg var stadig hjemme.
 
-Resten af gruppen fik målt de komponenter der skulle være inde i bilen, for at bestemme mål på bilen's krop.
+Jeg mødte dog med resten af gruppen over Discord, hvor vi fik målt de komponenter der skulle være inde i bilen, for at bestemme de nødvendige mål på bilen's krop.
+
 <p align="center">
-    <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/895de068-24be-4e67-913b-ea88de781b9a" width = "650" height = "450">
+    <img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/895de068-24be-4e67-913b-ea88de781b9a" width = "650" height = "550">
 </p>
     
-Jeg tilbød dog at begynde på at tegne hjulende, så jeg ikke sad og gjorde ingenting. 
-Sad med det resten af dagen, hvor det lykkedes mig at bruge Java CSG til at tegne 2 typer hjul, med Cylinder og Torus i CSG. 
+Jeg tilbød så at begynde på at tegne hjulende i JavaCSG, så jeg ikke sad og gjorde ingenting. 
+Brugte det meste af dagen på det, hvor det lykkedes mig at tegne 2 typer hjul, med henholdsvis Cylinder og Torus funktionen i JavaCSG. 
 
-<img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/ee52ded0-fedd-4f0f-a7b0-e941b591ae8e" width = "500" height = "350">
-<img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/b6e13159-c9ba-4c5f-a71b-0170bf292358" width = "500" height = "350">
+<img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/0302cfb4-0093-459d-9d30-a78b686e5df7" width = "500" height = "350">
+<img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/64f2a61f-fb1b-4488-8960-857c3bdf6701" width = "500" height = "350">
 
 Derefter eksperimenterede jeg med antalet af tværstiver, aksel hulet og andre mål.
 
-<img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/c873fb14-1ce8-46fb-9205-6b452eb8ce56" width = "500" height = "350">
-<img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/15810949-7f9f-4cfd-8d54-5e00b9a3a0ab" width = "500" height = "350">
+<img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/4443a2f7-f2ef-4e60-ab9b-7a30eea7d702" width = "500" height = "350">
+<img src = "https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/b858d326-3b33-4fd7-ab91-787cdfbb3be4" width = "500" height = "350">
 
 
 ## *Dag 12 - Fredag d. 29 Sep.*
