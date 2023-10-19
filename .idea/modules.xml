@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Car Project/Car Project.iml" filepath="$PROJECT_DIR$/Car Project/Car Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java CSG/Java CSG.iml" filepath="$PROJECT_DIR$/Java CSG/Java CSG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Robotter-og-Automatisering-logbog.iml" filepath="$PROJECT_DIR$/.idea/Robotter-og-Automatisering-logbog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VSC/VSC.iml" filepath="$PROJECT_DIR$/VSC/VSC.iml" />
+    </modules>
+  </component>
+</project>
