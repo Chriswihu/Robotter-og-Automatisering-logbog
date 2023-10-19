@@ -11,8 +11,8 @@ Fik en ny MP med to indbygget Dioder, hvor opgaven til næste gang, var at få d
 *Dag 2 - Fredag d. 25 Aug.*
 
 Fik gennemgået opgaven fra Dag 1, hvor det var muligt at få begge Dioder til at blinke på skift og fik understreget at funktionen 'delay()' ikke skal bruges i fremtiden.
-![image]width = 50%(https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/de14a41b-4608-4867-aae2-3b4bdd9d82aa)
-![image]width = 50%(https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/d54939ce-005c-443e-8f60-e0a2e93bed2e)
+![image]width = 256(https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/de14a41b-4608-4867-aae2-3b4bdd9d82aa)
+![image]width = 256(https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/d54939ce-005c-443e-8f60-e0a2e93bed2e)
 
 Fik en introduktion til et Trafiklys signal og de stadier det går igennem, som vi skal arbejde på til næste lektion, og forsøge at kode ind på vores MCU. 
 ![image](https://github.com/Chriswihu/Robotter-og-Automatisering-logbog/assets/99390466/4cd46835-9cc6-47fd-b52a-2e8a2eb95633)
